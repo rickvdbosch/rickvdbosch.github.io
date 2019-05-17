@@ -1,3 +1,3 @@
-# Welcome to rickvdbosch.github.io
+# Welcome to my personal GitHub pages
 
 Stay tuned for more information 🤓
