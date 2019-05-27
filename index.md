@@ -6,7 +6,7 @@ I am a...
 * [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003402)
 * Cloud Solutions Architect
 * Consultant @ [Betabit](https://www.betabit.nl)
-* [Regular speaker](https://sessionize.com/speaker)
+* [Regular speaker](https://sessionize.com/rickvdbosch)
 * Board member at [.NET Zuid](https://www.dotnetzuid.nl/)
 * Full Stack Developer
 * Brabo
