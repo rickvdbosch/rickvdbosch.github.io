@@ -19,4 +19,4 @@ Here are my GitHub [repositories](https://github.com/rickvdbosch?tab=repositorie
 
 Stay tuned for more information 🤓
 
-For now, you can visit my personal website [Rick van den Bosch .NET](https://www.rickvandenbosch.net). There's a [blog](https://www.rickvandenbosch.net/blog) there as well. You can find more information and online profiles on my [about page](https://www.rickvandenbosch.net/about).
+For now, you can visit my personal website [Rick van den Bosch .NET](https://www.rickvandenbosch.net). There's a [blog](https://www.rickvandenbosch.net/blog) over there as well. You can find more information and online profiles on my [about page](https://www.rickvandenbosch.net/about).
