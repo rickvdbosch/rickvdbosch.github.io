@@ -6,7 +6,7 @@ Here's me in a few words. I'm a...
 
 * Proud husband & father of 2 awesome boys
 * [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003402)
-* Cloud Solutions Architect
+* Principal Cloud Architect
 * [Stack Overflow user](https://stackoverflow.com/users/1945525/rickvdbosch)  
 * Consultant @ [Betabit](https://www.betabit.nl)
 * [Regular speaker](https://sessionize.com/rickvdbosch)
