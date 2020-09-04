@@ -12,7 +12,6 @@ Here's me in a few words. I'm a...
 * [Regular speaker](https://sessionize.com/rickvdbosch)
 * Board member at [.NET Zuid](https://www.dotnetzuid.nl/)
 * Full Stack Developer
-* Starting [Medium author](https://medium.com/@rickvdbosch)
 * Brabo
 
 Here are my GitHub [repositories](https://github.com/rickvdbosch?tab=repositories)
